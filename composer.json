@@ -3,12 +3,6 @@
     "description": "A minimal demo for a site with a login page",
     "license": "MIT",
     "type": "project",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url":  "git@github.com:symfony/http-foundation.git"
-        }
-	],
     "require": {
         "php": ">=5.5.9",
         "silex/silex": "~2.0",
