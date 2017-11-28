@@ -9,13 +9,11 @@
         "symfony/security": "~2.8|3.0.*",
         "symfony/twig-bridge": "^3.1",
         "twig/twig": "~1.23",
-        "twitter/bootstrap": "~3.3.6",
         "monolog/monolog": "^1.20"
 	},
     "autoload": {
         "psr-4": {
-            "Aoloe\\Demo\\": "app/",
-            "": "app/"
+            "Aoloe\\Demo\\": "app/"
         }
     }
 }
